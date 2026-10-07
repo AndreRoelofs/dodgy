@@ -38,7 +38,7 @@ mod get_line_for_neighbour_tests {
     };
 
     let neighbour = Agent {
-      position: position,
+      position,
       velocity: Vec2::ZERO,
       radius: 1.0,
       avoidance_responsibility: 1.0,
