@@ -14,7 +14,7 @@ categories = ["game-development"]
 keywords = ["orca", "rvo", "collision", "avoidance", "navigation"]
 
 [dependencies]
-glam = "0.29.1"
+glam = "0.34.0"
 rand = "0.10.3"
 
 [features]
